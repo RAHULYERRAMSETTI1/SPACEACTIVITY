@@ -12,9 +12,8 @@ public class ExampleDataSource {
 		
 		 list.add(new ExampleContactItem("ACE" , " " , "http://www.srl.caltech.edu/ACE/") );
 		 list.add(new ExampleContactItem("Apollo" , " " , "http://www.nasa.gov/mission_pages/apollo/index.html" ) );
-		 /*list.add(new ExampleContactItem("Aqua" , " " , "http://www.nasa.gov/mission_pages/aqua/index.html" ) );
+		 list.add(new ExampleContactItem("Aqua" , " " , "http://www.nasa.gov/mission_pages/aqua/index.html" ) );
 		 list.add(new ExampleContactItem("Aquarius" , " " , "http://www.nasa.gov/mission_pages/aquarius/main/index.html" ) );
-		 list.add(new ExampleContactItem("ARCTAS" , "Gracia Ringdahl" ) );
 		 list.add(new ExampleContactItem("ARTEMIS" , " " , "http://www.nasa.gov/mission_pages/artemis/index.html" ) );
 		 list.add(new ExampleContactItem("Asteroid Redirect Initiative" , " " , "http://www.nasa.gov/mission_pages/asteroids/initiative/index.html" ) );
 		 list.add(new ExampleContactItem("ASTRO-1" , " " , "http://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=ASTRO-1" ) );
@@ -132,7 +131,6 @@ list.add(new ExampleContactItem("Pioneer" , " " , "http://www.nasa.gov/mission_p
 list.add(new ExampleContactItem("Planck" , " " , "http://www.nasa.gov/mission_pages/planck/index.html" ) );
 list.add(new ExampleContactItem("Polar" , " " , "http://pwg.gsfc.nasa.gov/polar/" ) );
 list.add(new ExampleContactItem("QuikSCAT" , " " , "http://science.hq.nasa.gov/missions/satellite_51.htm" ) );
-list.add(new ExampleContactItem("Radiation Belt Storm Probes/Van Allen Probes" , "1" ) );
 list.add(new ExampleContactItem("Ranger" , " " , "http://solarsystem.nasa.gov/missions/profile.cfm?Sort=Target&Target=Moon&MCode=Ranger" ) );
 list.add(new ExampleContactItem("Rosetta" , " " , "http://sci.esa.int/science-e/www/area/index.cfm?fareaid=13" ) );
 list.add(new ExampleContactItem("Shuttle-Mir" , " " , "http://www.nasa.gov/mission_pages/shuttle-mir/index.html" ) );
@@ -141,14 +139,6 @@ list.add(new ExampleContactItem("Skylab" , " " , "http://www.nasa.gov/mission_pa
 list.add(new ExampleContactItem("Solar Radiation and Climate Experiment (SORCE)" , " " , "http://science.hq.nasa.gov/missions/satellite_21.htm" ) );
 list.add(new ExampleContactItem("Surveyor" , " " , "http://solarsystem.nasa.gov/missions/profile.cfm?Sort=Target&Target=Moon&MCode=Surveyor" ) );
 list.add(new ExampleContactItem("Swift" , " " , "http://www.nasa.gov/mission_pages/swift/main/index.html" ) );
-
-
-
-
-
-
-
-
 
 
 list.add(new ExampleContactItem("Terra" , " " , "http://www.nasa.gov/mission_pages/terra/index.html" ) );
@@ -163,30 +153,6 @@ list.add(new ExampleContactItem("WISE " , " " , "http://www.nasa.gov/mission_pag
 list.add(new ExampleContactItem("Wilkinson Microwave Anisotropy Probe (WMAP)" , " " , "http://map.gsfc.nasa.gov/" ) );
 list.add(new ExampleContactItem("XMM Newton" , " " , "http://sci.esa.int/science-e/www/object/index.cfm?fobjectid=31249" ) );
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		*/
-		 
 		 return list;
 	}
 	

@@ -138,7 +138,7 @@ public class ContactListActivity extends Activity implements TextWatcher {
 				for (ContactItemInterface item : contactList) {
 					ExampleContactItem contact = (ExampleContactItem)item;
 					
-					if ((contact.getFullName().toUpperCase().indexOf(keyword) > -1) ) {
+					if ((contact.getNickName().toUpperCase().indexOf(keyword) > -1) ) {
 						filterList.add(item);
 					}
 
